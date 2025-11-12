@@ -1,0 +1,11 @@
+{
+  "name": "dudai_pr3_project",
+  "version": "1.0.0",
+  "description": "University schedule management system implemented in TypeScript",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
